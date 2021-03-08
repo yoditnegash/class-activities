@@ -1,0 +1,22 @@
+/*  Hi! your going to write styles here in the next couple activities. */
+.header {
+    height:250Px;
+    max-height:500px;
+    background-image:url( );
+    background-size: cover;
+    background-repeat:  no-repeat;
+    background-position:bottom;
+  }
+  
+  #pagetopic { 
+      text-align: center;
+  }
+  .colorcontainer{
+      display: inline-block;
+      margin:15px;
+  }
+  .swatch {
+      height:200px;
+      width:170px;
+      border:1px solid black;
+  }
